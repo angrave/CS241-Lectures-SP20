@@ -2,7 +2,7 @@
 
 Hi class!
 
-Welcome to CS241 System Programming!  I'm Lawrence Angrave. I'm excited to be your instructor this semester and to meet you personally Wednesday in DCL1320 at 10AM or 11AM.
+Welcome to CS241 System Programming!  I'm Lawrence Angrave. I'm excited to be your instructor this semester and to meet you personally Wednesday in DCL1320 at 10AM or 11AM. The first lecture has real content - bring your A game.
 
 You've probably heard this is a challenging class! Yes, you'll need is time, tenacity and readiness to learn and use C. And the big picture - this course is a stepping stone - You're leaving behind CS225 land (where you write code that works with the course's provided code) and instead we're your launch pad you for the big leagues CS4xx at a tier-1 CS school. Take this course seriously and you will be a different and better person at the end of it.
 
@@ -22,7 +22,6 @@ Pointers can be tricky to learn, but it helps to remember that
 
 3) The variable type is a hint to the compiler as to how many bytes to read/write and is also useful to detect some programming errors at compile time.
 
-
 (I admit I simplified the last part about compilers but hey this is about using pointers with confidence, not about implementing a compiler OK?)
 
 Let's get started today, right now, with Homework Zero - my introductory mini-course. If you open the link below up on a powerful laptop or desktop using Chrome / Firefox you'll discover videos, man pages, and a complete virtual linux machine running inside your browser (yes it implements memory,disk and CPU in javascript and then boots up a linux machine with gcc and other standard tools - pretty cool! - it works best in Chrome). There's one #include issue with waitpid that I'll let you discover (and find a workaround) in the last lecture.
@@ -33,19 +32,20 @@ The questions are here
 
 https://github.com/angrave/CS241-Lectures-SP20/blob/master/HW0.md
 
-
 We will put up a link to submit HW0 starting the first lab section, although it won't be due until the following week.
 
 You can also regular linux machines and other online environments of course. I suggest you work on HW0 a bit each day (it's much better for long term recall and innate skills acquisition if you exercise your CS241 neurons each day).
 
 With a bit of google magic and hunting you can also find: Piazza, secondly my *free* wikibook and Homework 0 (keep your answers to each question - we'll ask you to submit these as part of a lab) and of course the course website. However here are some starting points :-)
 
-http://piazza.com/illinois/spring2020/cs241
+https://piazza.com/illinois/spring2020/cs241
 
-Send all CS241 questions, comments, ideas, regrades, logistics, issues, grade requests,bananas-for-scale etc to Piazza - not to my email :-)
+Send all CS241 questions, comments, ideas, regrades, logistics, issues, grade requests,bananas-for-scale etc to Piazza - not to my email. Most issues can be solved with a public or private post on Piazza. If that's not appropriate, please contact cs241admin@illinois.edu :-)
+
+The course website (currently under construction) is here. You can find links to the coursebook and syllabus (including learning objectives) here -
 
 http://cs241.cs.illinois.edu/
-.
+
 
 Ready? Let's Go!
 
@@ -58,5 +58,6 @@ p.p.s. As we speak EngrIT + CS241 staff are also preparing a server-side multi-C
 p.p.p.s Don't Panic, you'll be writing less code than Hamilton's Apollo team-
 
 https://en.wikipedia.org/wiki/Margaret_Hamilton_(scientist)
+https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)#/media/File:Margaret_Hamilton_-_restoration.jpg
 ... but you will be thinking about concurrency, just like she had to for the Apollo code.
 
